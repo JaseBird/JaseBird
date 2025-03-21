@@ -4,8 +4,8 @@ My name is Jason, I am currently working as a systems engineer in the marine ind
 
 #
 💼 **Professional Projects**
-- Dynamic C firmware development targetting the RabbitCore RCM3200 for embedded control systems. * *Source code verison control is handled using Microsoft DevOps* *.
-
+- Dynamic C firmware development targetting the RabbitCore RCM3200 for embedded control systems. *Source code verison control is handled using Microsoft DevOps*.
+#
 🕹️ **Hobby Projects**
 - Full stack web application development.
 - Game development using the [Godot Game Engine](https://godotengine.org/).
