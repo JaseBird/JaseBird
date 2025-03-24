@@ -10,6 +10,7 @@ My name is Jason, I am currently working as a systems engineer in the marine ind
 - Full stack web application development.
 - Game development using the [Godot Game Engine](https://godotengine.org/).
 - [Garmin CIQ](https://developer.garmin.com/connect-iq/overview/) application development.
+- Embedded engineering, Raspberry Pi and Arduino projects.
 
 #
 ### Technologies & Tools
